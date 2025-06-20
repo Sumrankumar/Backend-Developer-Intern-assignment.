@@ -1,11 +1,3 @@
-# Backend-Developer-Intern-assignment.
-
----
-
-## ✅ **2️⃣ Ready-made PDF content**
-
-Below is what to write in your **PDF** (one page).  
-
 ---
 
 ### 💼 **Backend Developer Intern — Project Explanation**
